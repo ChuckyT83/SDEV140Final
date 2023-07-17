@@ -1,0 +1,15 @@
+Pizza = Supreme
+	Size = Large
+	Sauce = Marinara
+	Ingredients = Pepperoni , Sausage , Onions , Black Olives , Bell Peppers , Mushrooms , Cheese
+
+Pizza = Custom Pizza
+	Size = Small
+	Sauce = Marinara
+	Ingredients = Sausage , Onions , Green Olives , Fresh Basil
+
+Pizza = Veggie Explosion
+	Size = Large
+	Sauce = Marinara
+	Ingredients = Bell Peppers , Onion , Mushrooms , Black Olives , Green Olives , Cheese
+

@@ -1,0 +1,10 @@
+Pizza = Supreme
+	Size = Med
+	Sauce = Marinara
+	Ingredients = Pepperoni , Sausage , Onions , Black Olives , Bell Peppers , Mushrooms , Cheese
+
+Pizza = Custom Pizza
+	Size = Large
+	Sauce = Alfredo
+	Ingredients = Onions , Mushrooms , Green Olives , Fresh Basil
+
