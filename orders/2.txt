@@ -1,15 +1,38 @@
-Pizza = Supreme
-	Size = Large
-	Sauce = Marinara
-	Ingredients = Pepperoni , Sausage , Onions , Black Olives , Bell Peppers , Mushrooms , Cheese
+Order #2
 
-Pizza = Custom Pizza
-	Size = Small
-	Sauce = Marinara
-	Ingredients = Sausage , Onions , Green Olives , Fresh Basil
+Name: Jane
+Address 1: 456 W Main Rd
+Address 2: 
+City: New Haven
+Zip Code: 12345
 
-Pizza = Veggie Explosion
-	Size = Large
-	Sauce = Marinara
-	Ingredients = Bell Peppers , Onion , Mushrooms , Black Olives , Green Olives , Cheese
+ ---Order---
 
+Item: Veggie Explosion Pizza 
+    Size: Large 
+    Ingredients: Bell Peppers, Onion, Mushrooms, Black Olives, Green Olives, Cheese 
+    Price: 19.99
+
+Item: Supreme Pizza 
+    Size: Med 
+    Ingredients: Pepperoni, Sausage, Onions, Black Olives, Bell Peppers, Mushrooms, Cheese 
+    Price: 14.99
+
+Item: BBQ Chicken Pizza 
+    Size: Small 
+    Ingredients: Chicken, Bacon, Onion, Cheese 
+    Price: 9.99
+
+Item: Breadsticks 
+    Size: --- 
+    Ingredients: --- 
+    Price: 5.99
+
+Item: Chef's Salad 
+    Size: --- 
+    Ingredients: --- 
+    Price: 7.99
+
+
+Subtotal: $58.95
+Total:	  $63.08

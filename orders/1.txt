@@ -1,10 +1,33 @@
-Pizza = Supreme
-	Size = Med
-	Sauce = Marinara
-	Ingredients = Pepperoni , Sausage , Onions , Black Olives , Bell Peppers , Mushrooms , Cheese
+Order #1
 
-Pizza = Custom Pizza
-	Size = Large
-	Sauce = Alfredo
-	Ingredients = Onions , Mushrooms , Green Olives , Fresh Basil
+Name: Chuck
+Address 1: 123 Main St
+Address 2: 
+City: Fort Wayne
+Zip Code: 12345
 
+ ---Order---
+
+Item: Supreme Pizza 
+    Size: Med 
+    Ingredients: Pepperoni, Sausage, Onions, Black Olives, Bell Peppers, Mushrooms, Cheese 
+    Price: 14.99
+
+Item: Chicken Alfredo Pizza 
+    Size: Med 
+    Ingredients: Chicken, Cheese 
+    Price: 14.99
+
+Item: Bone-in Wings 
+    Size: --- 
+    Ingredients: --- 
+    Price: 9.99
+
+Item: Cheesey Bread 
+    Size: --- 
+    Ingredients: --- 
+    Price: 6.99
+
+
+Subtotal: $46.96
+Total:	  $50.25
